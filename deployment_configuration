@@ -1,0 +1,9 @@
+Deployment Configuration
+
+This project is a data analysis and visualization task. It does not require a web server or application deployment.
+
+- Platform: GitHub
+- Execution Environment: Google Colab / Jupyter Notebook
+- Dataset: Sample Superstore CSV
+- Output: PDF report containing visualizations, insights, and business recommendations
+- Deployment Status: Report uploaded to GitHub for review and sharing.
