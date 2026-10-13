@@ -1,0 +1,15 @@
+Requirements
+
+- Python 3.x
+- Pandas
+- Matplotlib
+- Jupyter Notebook or Google Colab
+- Sample Superstore CSV dataset
+
+Install Required Libraries
+
+pip install pandas matplotlib
+
+Dataset
+
+The project uses "SampleSuperstore_data_set.csv" for sales and profitability analysis.
